@@ -1,0 +1,6 @@
+[2025-02-22T15:39:48.753Z] GET /logs
+[2025-02-22T15:50:59.849Z] GET /
+[2025-02-22T15:51:47.964Z] GET /
+[2025-02-22T15:57:31.272Z] GET /joyas
+[2025-02-22T15:57:44.585Z] GET /joyas/filtros
+[2025-02-22T15:57:57.167Z] GET /joyas/filtros?precio_min=25000&precio_max=30000&categoria=aros&metal=plata
